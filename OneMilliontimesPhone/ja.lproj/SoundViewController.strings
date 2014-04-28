@@ -1,0 +1,18 @@
+
+/* Class = "IBUIButton"; normalTitle = "OK"; ObjectID = "192-ja-AgI"; */
+"192-ja-AgI.normalTitle" = "オッケー";
+
+/* Class = "IBUIButton"; normalTitle = "3"; ObjectID = "1Pq-04-bPg"; */
+"1Pq-04-bPg.normalTitle" = "3";
+
+/* Class = "IBUIButton"; normalTitle = "2"; ObjectID = "Tm0-DL-dqc"; */
+"Tm0-DL-dqc.normalTitle" = "2";
+
+/* Class = "IBUILabel"; text = "SOUND"; ObjectID = "V6M-sr-jg6"; */
+"V6M-sr-jg6.text" = "サウンド";
+
+/* Class = "IBUIButton"; normalTitle = "mute"; ObjectID = "aeD-Hs-GDR"; */
+"aeD-Hs-GDR.normalTitle" = "ミュート";
+
+/* Class = "IBUIButton"; normalTitle = "1"; ObjectID = "vbK-aR-kbB"; */
+"vbK-aR-kbB.normalTitle" = "1";

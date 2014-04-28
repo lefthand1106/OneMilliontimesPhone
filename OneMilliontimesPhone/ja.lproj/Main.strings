@@ -1,0 +1,12 @@
+
+/* Class = "IBUIButton"; normalTitle = "screenBtn"; ObjectID = "3nt-Ci-5LS"; */
+"3nt-Ci-5LS.normalTitle" = "screenBtn";
+
+/* Class = "IBUIButton"; normalTitle = "twieet"; ObjectID = "cp2-cA-zaM"; */
+"cp2-cA-zaM.normalTitle" = "ツイート";
+
+/* Class = "IBUIButton"; normalTitle = "restart"; ObjectID = "n1Y-6J-ExJ"; */
+"n1Y-6J-ExJ.normalTitle" = "restart";
+
+/* Class = "IBUIButton"; normalTitle = "sound"; ObjectID = "r4W-yd-FwG"; */
+"r4W-yd-FwG.normalTitle" = "サウンド";
